@@ -261,7 +261,7 @@ data:
 
 如果您在研究中使用了本项目，请引用：
 
-```bibtex
+``bibtex
 @article{msac_t_2024,
   title={MSAC-T: A Multi-Scale Analysis with Complex Attention Transformer for Robust Radio Modulation Recognition},
   author={Your Name},
