@@ -1,0 +1,29 @@
+# Python/IDE 常规忽略
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+.DS_Store
+
+# Trae/VSCode 临时
+.vscode/
+
+# 实验产物（可再按需调整）
+experiments/_trash/
+experiments/_cleanup_logs/
+experiments/*/checkpoints/
+experiments/*/logs/
+
+# 数据缓存与中间文件
+*.log
+*.tmp
+
+# 模型文件
+*.pth
+
+# Colab 相关
+COLAB_USAGE.md
