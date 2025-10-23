@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 2ab17cae64284352c6fe116fdb2f3d4c31d59401 MSAC-T User <user@example.com> 1761210727 +0800	commit (initial): Initial commit: Prepare project for GitHub upload and Colab usage
+2ab17cae64284352c6fe116fdb2f3d4c31d59401 3d273f61b6bd6b8439105696da2fa4982a747962 MSAC-T User <user@example.com> 1761225723 +0800	commit: Fix GitHub username in README.md
+3d273f61b6bd6b8439105696da2fa4982a747962 3d273f61b6bd6b8439105696da2fa4982a747962 MSAC-T User <user@example.com> 1761225963 +0800	Branch: renamed refs/heads/master to refs/heads/main
